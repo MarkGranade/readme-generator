@@ -15,6 +15,42 @@ const questions = [
         type: 'input',
         name: 'description',
         message: 'What is a description of this project?'
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'What are the installation instructions for this project?'
+    },
+    {
+        type: 'input',
+        name: 'usageInfo',
+        message: 'What is the usage information?'
+    },
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'What are the contribution guidelines?'
+    },
+    {
+        type: 'input',
+        name: 'testInst',
+        message: 'What are the test instructions?'
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is your GitHub username?'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What license did you use for this project?',
+        choices: ['Apache', 'MIT', 'BSD', 'none']
     }
 ];
 

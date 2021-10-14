@@ -2,7 +2,20 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
-console.log(generateMarkdown);
+
+// MOCK DATA FOR TESTING
+const mockData = {
+    title: 'Potential Enigma',
+    description: 'Generates a README.md file based on user input',
+    installation: 'To install do x and then y',
+    usageInfo: 'This is where usage information will go',
+    contribution: 'To contribute to this project please clone the code and request a pull request',
+    testInst: 'To test, run in the command line the following command: node index.js',
+    github: 'MarkGranade',
+    email: 'mark.granade@gmail.com',
+    license: 'MIT'
+};
+
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -64,14 +77,19 @@ function writeToFile(data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions)
-    .then( answers => {
-        console.log(answers);
-        let templateCode = generateMarkdown(answers);
-        console.log('This is the Template', templateCode);
+    // THIS CODE IS FOR TESTING PURPOSES
+    // REMOVE AND UNCOMMENT inquirer.prompt() AND BELOW
+    let templateCode = generateMarkdown(mockData);
+    writeToFile(templateCode);
+	console.log(templateCode);
+    // inquirer.prompt(questions)
+    // .then( mockData => {
+    //     console.log(mockData);
+    //     let templateCode = generateMarkdown(mockData);
+    //     console.log('This is the Template', templateCode);
 
-        writeToFile(templateCode);
-    })
+    //     writeToFile(templateCode);
+    // })
 };
 
 // Function call to initialize app

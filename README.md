@@ -1,27 +1,38 @@
+# Potential Enigma [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-	# Potential Enigma
+# Description
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
 
-	# Description
-	Generates a README.md file based on user input
 
-	# Table of Contents
+# Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contribution](#contribution)
+4. [Testing](#testing)
+5. [Questions](#questions)
+6. [License](#license)
+		
 
-	# Installation Instructions
-	To install do x and then y
+# Installation Instructions
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
 
-	# Usage Info
-	This is where usage information will go
+# Usage Info
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
 
-	# License
-	[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Contribution Guidelines
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
 
-	# Contribution Guidelines
-	To contribute to this project please clone the code and request a pull request
+# Testing Instructions
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
 
-	# Testing Instructions
-	To test, run in the command line the following command: node index.js
 
-	# Questions
-	GitHub Username: [MarkGranade](https://github.com/MarkGranade)
-	Email: <mark.granade@gmail.com>
+# License
+[Apache](https://choosealicense.com/licenses/apache-2.0/)
+		
+
+# Questions
+GitHub Username: [MarkGranade](https://github.com/MarkGranade)
+
+
+Email: <mark.granade@gmail.com>
 	

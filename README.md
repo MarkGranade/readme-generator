@@ -15,16 +15,16 @@ This is a command-line application that dynamically generates a professional REA
 		
 
 # Installation Instructions
-Clone or download zip file from GitHub. From the command-line in the root of the project run 'npm install' to install all required dependencies.
+Clone or download zip file from GitHub. From the command-line in the root of the project directory run 'npm install' to install all required dependencies
 
 # Usage Info
-link to video
+https://watch.screencastify.com/v/5hAvjLNQESuAbq1N7KVo
 
 # Contribution Guidelines
 This project is complete and will not accept any contributions. Thank you for your interest!
 
 # Testing Instructions
-No tests are currently available for this project.
+No tests are currently available for this project
 
 
 # License

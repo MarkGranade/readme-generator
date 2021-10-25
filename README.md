@@ -1,7 +1,8 @@
-# Potential Enigma [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# Professional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Description
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
+This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 
 # Table of Contents
@@ -14,20 +15,20 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperior
 		
 
 # Installation Instructions
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
+Clone or download zip file from GitHub. From the command-line in the root of the project run 'npm install' to install all required dependencies.
 
 # Usage Info
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
+link to video
 
 # Contribution Guidelines
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
+This project is complete and will not accept any contributions. Thank you for your interest!
 
 # Testing Instructions
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero! Lorem ipsum dolor sit amet consectetur adipisicing elit. A iure laborum asperiores illo hic temporibus tempora. At sunt quae incidunt architecto. A exercitationem voluptas non pariatur error aliquam vel vero!
+No tests are currently available for this project.
 
 
 # License
-[Apache](https://choosealicense.com/licenses/apache-2.0/)
+[MIT](https://choosealicense.com/licenses/mit/)
 		
 
 # Questions
